@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/santa olalde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santa olalde" height="30" width="40" /></a>
 <a href="https://www.facebook.com/S.m.o.c.SANTY/" target="blank"><img align="center" src="https://img.icons8.com/dusk/452/facebook-circled.png" alt="santy smoc" height="30" width="40" /></a>
 <a href="https://www.instagram.com/santysmoc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/santysmoc/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/santy smoc" target="blank"><img align="center" src="https://img.icons8.com/doodle/344/youtube-play--v2.png" alt="https://www.youtube.com/channel/UCSIqVsVvn1F8fcddvu506FQ" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCSIqVsVvn1F8fcddvu506FQ" target="blank"><img align="center" src="https://img.icons8.com/doodle/344/youtube-play--v2.png" alt="https://www.youtube.com/channel/UCSIqVsVvn1F8fcddvu506FQ" height="30" width="40" /></a>
 <a href="https://discord.gg/Santy #1428" target="blank"><img align="center" src="https://img.icons8.com/plasticine/344/discord-new-logo.png" alt="Santy #1428" height="30" width="40" /></a>
 </p>
 

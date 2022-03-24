@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi <img src="https://img.icons8.com/dusk/452/v-live.png" alt="git" width="35" height="35"/>, I'm Santy</h1>  </a> <a href="https://heroku.com" target="_blank" rel="noreferrer">
 <h3 align="center">Python Backend Development Intern</h3>
 
-<p align="rigth"> <img src="https://komarev.com/ghpvc/?username=santysmoc&label=Profile%20views&color=0e75b6&style=flat" alt="santysmoc" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=santysmoc&label=Profile%20views&color=0e75b6&style=flat" alt="santysmoc" /> </p>
 
 - 🌱 I’m currently learning **Django**
 

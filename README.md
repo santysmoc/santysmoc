@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <a href="https://fb.com/santy smoc" target="blank"><img align="center" src="https://img.icons8.com/dusk/452/facebook-circled.png" alt="santy smoc" height="30" width="40" /></a>
 <a href="https://instagram.com/santy smoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santy smoc" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/santy smoc" target="blank"><img align="center" src="https://img.icons8.com/doodle/344/youtube-play--v2.png" alt="santy smoc" height="30" width="40" /></a>
-<a href="https://discord.gg/Santy #1428" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/98190945/159986556-428f902b-5a58-4463-afe5-bdfa8d2767cb.png)" alt="Santy #1428" height="30" width="40" /></a>
+<a href="https://discord.gg/Santy #1428" target="blank"><img align="center" src="https://img.icons8.com/bubbles/344/discord-new-logo.png" alt="Santy #1428" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

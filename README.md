@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Santy</h1> <img src="https://image.shutterstock.com/image-vector/speech-bubble-hello-quote-hand-600w-721898638.jpg" alt="git" width="35" height="35"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer">
+<h1 align="center">Hi 👋, I'm Santy</h1> <img src="https://img.icons8.com/dusk/452/v-live.png" alt="git" width="35" height="35"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer">
 <h3 align="center">Python Backend Development Intern</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santysmoc&label=Profile%20views&color=0e75b6&style=flat" alt="santysmoc" /> </p>

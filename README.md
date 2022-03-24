@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **santysmoc/santysmoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,6 +34,6 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santysmoc&show_icons=true&locale=en&layout=compact" alt="santysmoc" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santysmoc&show_icons=true&locale=en" alt="santysmoc" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santysmoc&show_icons=true&theme=tokyonight" alt="santysmoc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santysmoc&" alt="santysmoc" /></p>

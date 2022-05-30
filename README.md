@@ -39,23 +39,4 @@ Here are some ideas to get you started:
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=santysmoc&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D&ring=4F4986&border=CFDADD&stroke=4C4C8B&dates=98389A&sideLabels=DD8FD7)](https://git.io/streak-stats" alt="santysmoc" /></p> 
   
   
-  
-- uses: Platane/snk@v2
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.santysmoc }}
-
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:     A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake: Color of the snake
-    #  - color_dots:  Coma separated list of dots color.
-    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                 Exactly 5 colors are expected.
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg#gh-dark-mode-only
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+ 

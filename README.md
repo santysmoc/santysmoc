@@ -38,5 +38,4 @@ Here are some ideas to get you started:
   
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=santysmoc&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D&ring=4F4986&border=CFDADD&stroke=4C4C8B&dates=98389A&sideLabels=DD8FD7)](https://git.io/streak-stats" alt="santysmoc" /></p> 
   
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/santysmoc/santysmoc/output/github-contribution-grid-snake.svg#gh-light-mode-only)
- 
+![github contribution grid snake animation](https://raw.githubusercontent.com/santysmoc/santysmoc/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)

@@ -39,6 +39,4 @@ Here are some ideas to get you started:
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=santysmoc&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D&ring=4F4986&border=CFDADD&stroke=4C4C8B&dates=98389A&sideLabels=DD8FD7)](https://git.io/streak-stats" alt="santysmoc" /></p> 
   
   
- ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-  
 ![snake gif](https://github.com/santysmoc/santysmoc/blob/output/github-contribution-grid-snake.gif)

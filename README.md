@@ -43,4 +43,6 @@ Here are some ideas to get you started:
 
 ![snake gif](https://github.com/santysmoc/santysmoc/blob/output/github-contribution-grid-snake-dark.svg)
 
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
 

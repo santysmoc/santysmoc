@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santysmoc&show_icons=true&locale=en&layout=compact" alt="santysmoc" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santysmoc&show_icons=true&theme=tokyonight" alt="santysmoc" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santysmoc&show_icons=true&theme=default" alt="santysmoc" /></p>
   
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=santysmoc&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D&ring=4F4986&border=CFDADD&stroke=4C4C8B&dates=98389A&sideLabels=DD8FD7)](https://git.io/streak-stats" alt="santysmoc" /></p> 
   
